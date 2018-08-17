@@ -2,7 +2,7 @@
 Lightweight library for common latitude and longitude calculation
 
 ## [v0.5.4](http://github.com/mikemitterer/dart-latlong/compare/v0.5.3...v0.5.4) - 2018-08-017
-* Dependency update for recent updates to the dart sdk [862ea18](https://github.com/KevinTheGray/dart-latlong/commit/862ea18372a3efa589bed7ac35bbc45aad639da9)
+* Dependency updates for recent updates to the dart sdk
 
 ## [v0.5](http://github.com/mikemitterer/dart-latlong/compare/v0.4...v0.5) - 2018-06-06
 
